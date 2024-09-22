@@ -13,7 +13,6 @@ VALUES
 	('Raianne Lima', '1992-08-18', 'f', '459.789.013-03', '154.5723.1519.4953', 'raionthesky@gmail.com', '(88) 9 9986-8901'),
 	('Iohana Lopes', '2001-09-22', 'f', '559.890.123-84', '476.0131.8812.2506', 'lopes.xu@gmail.com', '(88) 9 9955-7812');
 
-
 INSERT INTO unidade_medica (nome_unidade, tipo_unidade, quantidade_leitos, cnpj, email, telefone, estado, cidade, logradouro, numero_endereco)
 VALUES
 	('Hospital Municipal Eusebio', 'Hospital', 100, '82.345.158/0001-90', 'hospital.eusebio@gmail.com', '(88) 3533-1611', 'Ceará', 'Quixadá', 'Av. Eusebio Queiroz', 1000),
